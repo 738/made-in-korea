@@ -115,6 +115,9 @@
 ## > 100 ⭐️
 
 ## > 0 ⭐️
+- **[adorable-css](https://github.com/developer-1px/adorable-css)** by [developer-1px](https://github.com/developer-1px)<br>
+  Rapid On-Demand Atomic CSS Framework
+
 
 ## Related projects
 
