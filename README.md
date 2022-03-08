@@ -113,6 +113,8 @@
   훌륭한 Swift 세션 동영상(강좌), 한글 자막있는 혹은 한국어 강의 정보 링크 모음 (Awesome Swift Korean lecture information)
   
 ## > 100 ⭐️
+- **[react-web-editor](https://github.com/CHEWCHEWW/react-web-editor)** by [CHEWCHEWW](https://github.com/CHEWCHEWW)<br>
+  The react-web-editor is a WYSIWYG editor library. you can resize and drag your component. It also has simple rich text editor
 
 ## > 0 ⭐️
 
