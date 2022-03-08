@@ -10,9 +10,8 @@
 
 이 레포지토리에 있는 프로젝트 목록은 아래 기준에 부합합니다.
 
-1. 100개 이상의 스타가 있는 프로젝트.
-2. 프로젝트를 만든 사람 혹은 메인테이너가 한국에서 태어났거나 자신을 한국인이라고 규정한다.
-3. 프로젝트가 단체 소속이고, 한국인 개발자가 기여자 상위 5명 이내에 있다.
+1. 프로젝트를 만든 사람 혹은 메인테이너가 한국에서 태어났거나 자신을 한국인이라고 규정한다.
+2. 프로젝트가 단체 소속이고, 한국인 개발자가 기여자 상위 5명 이내에 있다.
 
 > 위 조건에 부합한다면, PR을 보내주세요!
 
@@ -112,6 +111,10 @@
 
 - **[awesome-swift-korean-lecture](https://github.com/ClintJang/awesome-swift-korean-lecture)** by [ClintJang](https://github.com/ClintJang)<br>
   훌륭한 Swift 세션 동영상(강좌), 한글 자막있는 혹은 한국어 강의 정보 링크 모음 (Awesome Swift Korean lecture information)
+  
+## > 100 ⭐️
+
+## > 0 ⭐️
 
 ## Related projects
 
