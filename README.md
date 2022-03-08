@@ -101,6 +101,9 @@
 
 - **[egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid)** by [naver](https://github.com/naver)<br>
   A module used to arrange card elements including content infinitely on a grid layout.
+  
+- **[hwp.js](https://github.com/hahnlee/hwp.js)** by [hahnlee](https://github.com/hahnlee)<br />
+  Open source hwp viewer and parser library powered by web technology
 
 ## > 500 ⭐️
 
