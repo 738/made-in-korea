@@ -112,6 +112,9 @@
 - **[awesome-swift-korean-lecture](https://github.com/ClintJang/awesome-swift-korean-lecture)** by [ClintJang](https://github.com/ClintJang)<br>
   훌륭한 Swift 세션 동영상(강좌), 한글 자막있는 혹은 한국어 강의 정보 링크 모음 (Awesome Swift Korean lecture information)
   
+- **[react-design-editor](https://github.com/salgum1114/react-design-editor)** by [salgum1114](https://github.com/salgum1114)<br>
+  React Design Editor has started to developed direct manipulation of editable design tools like Powerpoint, We've developed it with reactjs, ant.design, fabricjs
+  
 ## > 100 ⭐️
 - **[react-web-editor](https://github.com/CHEWCHEWW/react-web-editor)** by [CHEWCHEWW](https://github.com/CHEWCHEWW)<br>
   The react-web-editor is a WYSIWYG editor library. you can resize and drag your component. It also has simple rich text editor
