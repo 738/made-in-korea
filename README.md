@@ -123,6 +123,9 @@
 - **[adorable-css](https://github.com/developer-1px/adorable-css)** by [developer-1px](https://github.com/developer-1px)<br>
   Rapid On-Demand Atomic CSS Framework
 
+- **[PyPinkSign](https://github.com/bandoche/PyPinkSign)** by [bandoche](https://github.com/bandoche)<br>
+  A friendly Python library for NPKI (공동인증서) certificates 🔑
+
 
 ## Related projects
 
