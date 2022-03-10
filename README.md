@@ -125,6 +125,9 @@
 
 - **[PyPinkSign](https://github.com/bandoche/PyPinkSign)** by [bandoche](https://github.com/bandoche)<br>
   A friendly Python library for NPKI (공동인증서) certificates 🔑
+  
+- **[vuerd](https://github.com/vuerd/vuerd)** by [dineug](https://github.com/dineug)<br>
+  Entity-Relationship Diagram Editor
 
 
 ## Related projects
