@@ -115,6 +115,11 @@
 - **[react-design-editor](https://github.com/salgum1114/react-design-editor)** by [salgum1114](https://github.com/salgum1114)<br>
   React Design Editor has started to developed direct manipulation of editable design tools like Powerpoint, We've developed it with reactjs, ant.design, fabricjs
   
+- **[SunEditor](https://github.com/JiHong88/SunEditor)** by [JiHong88](https://github.com/JiHong88)<br>
+  Pure javascript based WYSIWYG html editor, with no dependencies.
+  
+- 
+  
 ## > 100 ⭐️
 - **[react-web-editor](https://github.com/CHEWCHEWW/react-web-editor)** by [CHEWCHEWW](https://github.com/CHEWCHEWW)<br>
   The react-web-editor is a WYSIWYG editor library. you can resize and drag your component. It also has simple rich text editor
