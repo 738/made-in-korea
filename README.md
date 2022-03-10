@@ -114,11 +114,13 @@
   
 - **[react-design-editor](https://github.com/salgum1114/react-design-editor)** by [salgum1114](https://github.com/salgum1114)<br>
   React Design Editor has started to developed direct manipulation of editable design tools like Powerpoint, We've developed it with reactjs, ant.design, fabricjs
-  
+
 - **[SunEditor](https://github.com/JiHong88/SunEditor)** by [JiHong88](https://github.com/JiHong88)<br>
   Pure javascript based WYSIWYG html editor, with no dependencies.
-  
-- 
+
+- **[vuerd](https://github.com/vuerd/vuerd)** by [dineug](https://github.com/dineug)<br>
+  Entity-Relationship Diagram Editor  
+
   
 ## > 100 ⭐️
 - **[react-web-editor](https://github.com/CHEWCHEWW/react-web-editor)** by [CHEWCHEWW](https://github.com/CHEWCHEWW)<br>
@@ -130,6 +132,7 @@
 
 - **[PyPinkSign](https://github.com/bandoche/PyPinkSign)** by [bandoche](https://github.com/bandoche)<br>
   A friendly Python library for NPKI (공동인증서) certificates 🔑
+  
 
 
 ## Related projects
