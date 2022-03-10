@@ -115,6 +115,9 @@
 - **[react-design-editor](https://github.com/salgum1114/react-design-editor)** by [salgum1114](https://github.com/salgum1114)<br>
   React Design Editor has started to developed direct manipulation of editable design tools like Powerpoint, We've developed it with reactjs, ant.design, fabricjs
   
+- **[vuerd](https://github.com/vuerd/vuerd)** by [dineug](https://github.com/dineug)<br>
+  Entity-Relationship Diagram Editor  
+  
 ## > 100 ⭐️
 - **[react-web-editor](https://github.com/CHEWCHEWW/react-web-editor)** by [CHEWCHEWW](https://github.com/CHEWCHEWW)<br>
   The react-web-editor is a WYSIWYG editor library. you can resize and drag your component. It also has simple rich text editor
@@ -126,8 +129,6 @@
 - **[PyPinkSign](https://github.com/bandoche/PyPinkSign)** by [bandoche](https://github.com/bandoche)<br>
   A friendly Python library for NPKI (공동인증서) certificates 🔑
   
-- **[vuerd](https://github.com/vuerd/vuerd)** by [dineug](https://github.com/dineug)<br>
-  Entity-Relationship Diagram Editor
 
 
 ## Related projects
