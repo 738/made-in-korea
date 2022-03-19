@@ -125,6 +125,8 @@
 ## > 100 ⭐️
 - **[react-web-editor](https://github.com/CHEWCHEWW/react-web-editor)** by [CHEWCHEWW](https://github.com/CHEWCHEWW)<br>
   The react-web-editor is a WYSIWYG editor library. you can resize and drag your component. It also has simple rich text editor
+- **[celery.node](https://github.com/actumn/celery.node)**  by [actumn](https://github.com/actumn)<br>
+  Celery task queue client/worker for nodejs
 
 ## > 0 ⭐️
 - **[adorable-css](https://github.com/developer-1px/adorable-css)** by [developer-1px](https://github.com/developer-1px)<br>
