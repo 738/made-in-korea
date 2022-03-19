@@ -133,7 +133,8 @@
 - **[PyPinkSign](https://github.com/bandoche/PyPinkSign)** by [bandoche](https://github.com/bandoche)<br>
   A friendly Python library for NPKI (공동인증서) certificates 🔑
   
-
+- **[zsh-hangul](https://github.com/gomjellie/zsh-hangul)** by [gomjellie](https://github.com/gomjellie)<br>
+  한영 전환의 지옥에서 벗어나서 광명찾자!
 
 ## Related projects
 
