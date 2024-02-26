@@ -72,6 +72,9 @@
 - **[tui.chart](https://github.com/nhn/tui.chart)** by [nhn](https://github.com/nhn)<br>
   🍞📊 Beautiful chart for data visualization.
 
+- **[Lepton(Firefox-UI-Fix)](https://github.com/black7375/Firefox-UI-Fix)** by [black7375](https://github.com/black7375)<br>
+   🦊 I respect proton UI and aim to improve it. 
+
 ## > 1K ⭐️
 
 - **[tui.image-editor](https://github.com/nhn/tui.image-editor)** by [nhn](https://github.com/nhn)<br>
